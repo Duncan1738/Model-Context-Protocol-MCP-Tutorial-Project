@@ -4,7 +4,7 @@ This project demonstrates how to use the **Model Context Protocol (MCP)** to str
 
 ---
 
-## 🚀 What is MCP?
+## What is MCP?
 
 **Model Context Protocol** is a systematic approach for crafting LLM prompts. It segments input into:
 - ✅ **Task Description**
