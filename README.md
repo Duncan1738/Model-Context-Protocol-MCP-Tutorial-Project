@@ -1,4 +1,4 @@
-# 🧠 Model Context Protocol (MCP) Tutorial Project
+#  Model Context Protocol (MCP) Tutorial Project
 
 This project demonstrates how to use the **Model Context Protocol (MCP)** to structure prompts for Large Language Models (LLMs) using **LangChain**, **FAISS**, and a mock LLM. It walks through how MCP improves prompt quality and includes a visualization of prompt structure.
 
