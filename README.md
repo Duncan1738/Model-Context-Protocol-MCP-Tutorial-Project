@@ -45,7 +45,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
    pip install -q langchain langchain-community faiss-cpu matplotlib seaborn
 
 
-🔍 Sample Output
+Sample Output
 🧠 Response: MCP structures prompts with task, constraints, tools, and examples.
 
 📌 Notes
