@@ -46,7 +46,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
 
 
 Sample Output
-🧠 Response: MCP structures prompts with task, constraints, tools, and examples.
+Response: MCP structures prompts with task, constraints, tools, and examples.
 
 📌 Notes
 🔧 This uses a FakeListLLM for simplicity. Replace with OpenAI, HuggingFaceHub, or any production-grade LLM for real use.
