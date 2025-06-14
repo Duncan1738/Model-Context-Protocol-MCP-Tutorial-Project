@@ -36,7 +36,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repo or copy the notebook to Colab
 2. Install dependencies:
