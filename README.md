@@ -30,7 +30,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
 
 - **Context Setup**: Define MCP content in memory
 - **Vector Store**: Embed content using HuggingFace MiniLM and store in FAISS
-- 🤖 **Fake LLM**: Use LangChain's mock LLM for quick testing
+- **Fake LLM**: Use LangChain's mock LLM for quick testing
 - 🔎 **RetrievalQA**: Ask questions using context-aware retrieval
 - 📈 **Visualization**: Bar chart showing simulated MCP prompt structure
 
