@@ -16,7 +16,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - [LangChain](https://github.com/langchain-ai/langchain)
 - [FAISS](https://github.com/facebookresearch/faiss)
