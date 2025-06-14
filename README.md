@@ -49,7 +49,7 @@ Sample Output
 Response: MCP structures prompts with task, constraints, tools, and examples.
 
 Notes
-🔧 This uses a FakeListLLM for simplicity. Replace with OpenAI, HuggingFaceHub, or any production-grade LLM for real use.
+This uses a FakeListLLM for simplicity. Replace with OpenAI, HuggingFaceHub, or any production-grade LLM for real use.
 
 🧪 FAISS is used here for local, fast retrieval. You can swap with Chroma or a cloud vector DB.
 
