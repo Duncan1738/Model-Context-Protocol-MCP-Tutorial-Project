@@ -26,7 +26,7 @@ This helps LLMs interpret user intent more reliably and produce higher quality o
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - **Context Setup**: Define MCP content in memory
 - **Vector Store**: Embed content using HuggingFace MiniLM and store in FAISS
