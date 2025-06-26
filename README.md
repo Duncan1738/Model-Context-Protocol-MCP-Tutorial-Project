@@ -55,4 +55,4 @@ FAISS is used here for local, fast retrieval. You can swap with Chroma or a clou
 License
 MIT © 2025 
 
-## How to Run
+
